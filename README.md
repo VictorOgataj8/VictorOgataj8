@@ -17,6 +17,8 @@
   <img align="center" alt="git-terminal" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 </div>
 
+
+
 ![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorOgataj8&show_icons=true&bg_color=00000000)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
