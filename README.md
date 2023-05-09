@@ -24,6 +24,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Latest projetcs:
-- [Projeto teste](google.com)
+- [Projeto Labook beck-end](https://github.com/VictorOgataj8/Victor-ogata-projeto-Labook)
+- [Projeto PokeApi react front-end](https://github.com/VictorOgataj8/VIctor-Ogata-projeto-react-apis)
 
 
